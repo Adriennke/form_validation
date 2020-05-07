@@ -1,7 +1,6 @@
 {
   "name": "form_validation",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://Adriennke.github.io/form_validation",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
